@@ -10,7 +10,7 @@ Hey! Welcome to my blog site, here I occasionally post updates and information a
 
 ## Who am I?
 
-I'm a software developer from the UK, usually creating Discord bots, APIs, and generally other random backend services. I use Python for the majority of my projects, and FastAPI for the APIs. For making Discord bots I use discord.py, and have made a tutorial about how to use it [here.](https://vcokltfre.dev)
+I'm a software developer from the UK, usually creating Discord bots, APIs, and generally other random backend services. I use Python for the majority of my projects, and FastAPI for the APIs, and for making Discord bots I use discord.py, and have made a tutorial about how to use it [here.](https://vcokltfre.dev)
 
 I moderate a few Discord servers, and develop bots for some of them, including [Minecraft@Home](https://mcatho.me) and GTA Online.
 
