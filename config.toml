@@ -9,11 +9,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [outputs]
   home = ["HTML", "RSS","JSON"]
 
-#  menu items
-[[menu.main]]
-  name = "Docs"
-  weight = 2
-  url = "docs/"
 
 [markup]
   [markup.goldmark]
